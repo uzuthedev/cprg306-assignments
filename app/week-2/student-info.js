@@ -7,7 +7,7 @@ function StudentInfo() {
       <h1>Chukbikem Confidence</h1>
       <p>
         <Link href="https://github.com/uzuthedev/cprg306-assignments">
-          My GitHub Repository
+        https://github.com/uzuthedev/cprg306-assignments
         </Link>
       </p>
     </div>
